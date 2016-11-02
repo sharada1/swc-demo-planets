@@ -1,2 +1,4 @@
 Cold and dry, but everything is my favorite color.
 Second line of content to see how version control works
+A third line
+The fourth line!
